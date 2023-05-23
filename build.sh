@@ -3,7 +3,7 @@ set -e
 set -x
 
 python3 -m venv  venv
-source dist/venv/bin/activate
+source venv/bin/activate
 python3 -m pip install -r requirements.txt
 deactivate
 

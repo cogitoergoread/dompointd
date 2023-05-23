@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(name='dompointd',
-      version='0.5',
+      version='0.2',
       description='A Simple API',
       author='Joozsef Varga',
       author_email='muszi@rubin.hu',
